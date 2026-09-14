@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="GraveAttention" />
+	<DisplayName value="GraveAttention" />
+	<Description value="Zombies only snarl, groan and grunt when they can actually see you. A zombie chasing you through a wall, sniffing you out from the next room or swinging at a door you are behind keeps its voice down; step into its sight and it sounds off as usual. Each kind of vocal can be muted, made rare or left alone in-game. Hurt, death, footsteps and impacts are never touched. Compatible with Undead Legacy." />
+	<Author value="John Rando" />
+	<Version value="0.0.0.1" />
+	<Website value="" />
+</xml>
