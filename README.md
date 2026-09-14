@@ -163,7 +163,7 @@ That restages `dist/GraveAttention/`, ready to copy into `Mods/`. To also build 
 dotnet build src/GraveAttention/GraveAttention.csproj -c Release -t:Package
 ```
 
-That writes `release/GraveAttention-<version>-<date>.zip`, taking the version from `ModInfo.xml`.
+That writes `release/GraveAttention-v<version>-<date>.zip`, taking the version from `ModInfo.xml`.
 Neither `dist/` nor `release/` is tracked.
 
 ## License
